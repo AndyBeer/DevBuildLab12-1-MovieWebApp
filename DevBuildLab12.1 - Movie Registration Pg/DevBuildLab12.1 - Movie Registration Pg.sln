@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevBuildLab12.1 - Movie Registration Pg", "DevBuildLab12.1 - Movie Registration Pg\DevBuildLab12.1 - Movie Registration Pg.csproj", "{7F9CF25F-FF97-4D5E-B266-E59B7DC27553}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F9CF25F-FF97-4D5E-B266-E59B7DC27553}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F9CF25F-FF97-4D5E-B266-E59B7DC27553}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F9CF25F-FF97-4D5E-B266-E59B7DC27553}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F9CF25F-FF97-4D5E-B266-E59B7DC27553}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28C1EAD1-3FD6-4F96-A5CE-E0B74195C766}
+	EndGlobalSection
+EndGlobal
